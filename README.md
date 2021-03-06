@@ -4,11 +4,6 @@ Git, yazılım sektöründe versiyon kontrolü amacıyla kullanılan en popüler
 
 GitHub komut satırını kullanırken kullanabileceğiniz yüzlerce komut vardır. Daha kapsamlı bir rehber için [şu rehbere](https://github.com/joshnh/Git-Commands) bakabilirsiniz. Daha ayrıntılı komutlar için Google'da `github commands` araması yapabilirsiniz.
 
-Şimdi GitHub kullanırken sık kullanılan bazı terimlere bakalım.
-
-[![Alt text](https://img.youtube.com/vi/fnxi12JLhNY/0.jpg)](https://www.youtube.com/watch?v=fnxi12JLhNY)
-
-
 ## Sık Kullanılan GitHub Terimleri
 
 ### Repository
@@ -39,7 +34,7 @@ Kelime anlamı: kopyalamak, klonlamak.
 
 Bir projeyi bilgisayarınıza indirmek istediğinizde clone komutunu kullanabilirsiniz.
 
-Terminal'e `git clone https://github.com/reactdersleri/github.git` yazıp gönderdiğinizde, `github` isimli proje, o an bulunduğunuz dizinde `github` ismiyle oluşturulan klasörün içine kopyalanacaktır. Bir repository'e ait clone linkine ulaşmak için, projenin GitHub sayfasında sağ taraftaki yeşil `Clone or download` butonuna basarak yahut projenin linkinin sonuna `.git` uzantısını koyarak erişebilirsiniz.
+Terminal'e `git clone https://github.com/github.git` yazıp gönderdiğinizde, `github` isimli proje, o an bulunduğunuz dizinde `github` ismiyle oluşturulan klasörün içine kopyalanacaktır. Bir repository'e ait clone linkine ulaşmak için, projenin GitHub sayfasında sağ taraftaki yeşil `Clone or download` butonuna basarak yahut projenin linkinin sonuna `.git` uzantısını koyarak erişebilirsiniz.
 
 ## Kullanıcı Bilgileri Ayarları
 
